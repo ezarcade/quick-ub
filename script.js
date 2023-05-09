@@ -9,7 +9,7 @@ btn2.addEventListener("click",link2)
 btn3.addEventListener("click",link3)
 
 function link1(){
-  frame.src="https://pixabay.com/photo-2845763/"
+  frame.src="https://spew45.github.io/"
 }
 function link2(){
   frame.src="https://pixabay.com/photo-3126513/"
