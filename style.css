@@ -2,7 +2,7 @@ input {
   border: none;
   font-family: Arial;
   cursor: pointer;
-  margin-top: calc(100% + 50px);
+  margin-top: 100%;
   border-radius: 30px;
   background-color: #b5b5b5;
 }
