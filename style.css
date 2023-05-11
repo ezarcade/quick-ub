@@ -4,4 +4,5 @@ input {
   cursor: pointer;
   margin-top: calc(100% + 50px);
   border-radius: 30px;
+  background-color: #b5b5b5;
 }
