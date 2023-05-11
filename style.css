@@ -3,4 +3,5 @@ input {
   font-family: Arial;
   cursor: pointer;
   margin-top: 35px;
+  border-radius: 30px;
 }
