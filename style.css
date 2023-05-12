@@ -4,7 +4,10 @@ input {
   cursor: pointer;
   margin-top: 900px;
   margin-bottom: 25px;
-  margin: auto
   border-radius: 30px;
   background-color: #b5b5b5;
+}
+
+.button {
+  max-width: 80%;
 }
