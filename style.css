@@ -4,7 +4,8 @@ input {
   cursor: pointer;
   position: absolute;
   top: 25px;
-  left: 25px;
+  left: 50%;
+  right: 50%;
   border-radius: 30px;
   background-color: #dcdcdc;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.356), 0 6px 20px 0 rgba(0, 0, 0, 0.356);
