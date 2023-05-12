@@ -1,5 +1,5 @@
 function newSite1() {
-    let information = prompt("What is the link?", "https://spew45.github.io")
+    let information = prompt("What is the link?", "https://")
     var sites = [information]
 
     document.getElementById('myIframe').src = sites[Math.floor(Math.random() * sites.length)];
