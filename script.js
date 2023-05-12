@@ -1,5 +1,5 @@
 function newSite1() {
-    var sites = ['https://spew45.github.io']
+    var sites = ['prompt()']
 
     document.getElementById('myIframe').src = sites[Math.floor(Math.random() * sites.length)];
 }
