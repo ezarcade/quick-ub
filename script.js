@@ -1,5 +1,6 @@
 function newSite1() {
-    var sites = ['prompt()']
+    let information = prompt("What is the link?", "https://google.com")
+    var sites = ['information']
 
     document.getElementById('myIframe').src = sites[Math.floor(Math.random() * sites.length)];
 }
