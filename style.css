@@ -3,9 +3,8 @@ input {
   font-family: Arial;
   cursor: pointer;
   position: absolute;
-  top: 25px;
-  left: 50%;
-  margin-left: -50px;
+  bottom: 25px;
+  right: 25px;
   border-radius: 30px;
   background-color: #dcdcdc;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.356), 0 6px 20px 0 rgba(0, 0, 0, 0.356);
@@ -14,20 +13,4 @@ input {
 
 .button {
   max-width: 80%;
-}
-
-body {
-  background-color: #949494;
-  overflow-y: scroll; /* Add the ability to scroll */
-}
-
-/* Hide scrollbar for Chrome, Safari and Opera */
-body::-webkit-scrollbar {
-  display: none;
-}
-
-/* Hide scrollbar for IE, Edge and Firefox */
-body {
--ms-overflow-style: none;  /* IE and Edge */
-scrollbar-width: none;  /* Firefox */
 }
